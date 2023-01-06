@@ -38,10 +38,18 @@ h2 {
   padding-top: 5px;
   padding-bottom: 15px;
   font-size: large;
+  margin-bottom: auto;
 }
 
 .highlight {
   color: rgb(235, 8, 8);
   font-weight: bold;
+}
+
+.projects {
+  background-color: rgb(140, 184, 59);
+  padding-top: 5px;
+  padding-bottom: 15px;
+  font-size: large;
 }
 
