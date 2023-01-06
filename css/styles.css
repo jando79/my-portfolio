@@ -4,14 +4,15 @@ body {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 60px;
   font-weight: 600;
   text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 img {
-  height: 325px;
-  length: 325px;
+  height: 375px;
+  length: 375px;
   display: block;
   margin-left: auto;
   margin-right: auto;
