@@ -8,12 +8,16 @@ h1 {
   text-align: center;
 }
 
-.centered-image {
-  margin: auto;
-  width: 50%;
-  height: auto;
+img {
+  height: 450px;
+  length: 450px;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 30px;
+  border-color: rgb(36, 36, 1);
 }
+
 
 .p {
   font-weight: 400px;
