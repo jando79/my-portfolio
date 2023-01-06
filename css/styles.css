@@ -8,13 +8,15 @@ h1 {
   text-align: center;
 }
 
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
 .p {
   font-weight: 400px;
   text-align: left;
-}
-
-img {
-  border: 5px;
-  border-color: black;
-  
+  float: left;
 }
