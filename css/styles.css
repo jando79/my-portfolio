@@ -59,7 +59,7 @@ h2 {
   margin-right: auto;
   border: 15px;
   border-style: solid;
-  border-color: rgb(36, 36, 1);
+  border-color: rgb(10, 3, 36);
   padding-right: 10px;
   padding-left: 10px;
 }
@@ -70,9 +70,14 @@ h2 {
   margin-right: auto;
   border: 15px;
   border-style: solid;
-  border-color: rgb(36, 36, 1);
+  border-color: rgb(73, 28, 197);
   padding-right: 10px;
   padding-left: 10px;
+}
+
+.contact {
+  width: 40%;
+  color: bisque;
   float: inline-start;
-  float: right;
+  float:right
 }
