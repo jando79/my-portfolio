@@ -60,6 +60,7 @@ h2 {
   border: 15px;
   border-style: solid;
   border-color: rgb(10, 3, 36);
+  background-color: rgb(73, 28, 197);
   padding-right: 10px;
   padding-left: 10px;
 }
@@ -70,7 +71,8 @@ h2 {
   margin-right: auto;
   border: 15px;
   border-style: solid;
-  border-color: rgb(73, 28, 197);
+  border-color: rgb(40, 22, 90);
+  background-color: rgb(151, 128, 235);
   padding-right: 10px;
   padding-left: 10px;
 }
@@ -79,5 +81,7 @@ h2 {
   width: 40%;
   color: bisque;
   float: inline-start;
-  float:right
+  float:right;
+  background-color: black;
+  padding-left: 10%;
 }
